@@ -16,6 +16,7 @@
                 glfw-3.3.2              https://www.glfw.org/                                   OpenGL
                 QCustomPlot-2.0.1       https://www.qcustomplot.com/                            图表
                 SDL2-devel-2.0.12       https://www.libsdl.org/                                 音视频播放
+        Qt      QXlsx                   https://github.com/QtExcel/QXlsx                        访问Excel
 
     资源：
         http://fontawesome.dashgame.com/
