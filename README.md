@@ -9,6 +9,7 @@
                 libconfig       1.7.2           https://hyperrealm.github.io/libconfig/
                 libevent        2.1.8           http://libevent.org/
                 vlc             3.0.9.2         https://mirrors.tuna.tsinghua.edu.cn/videolan-ftp/vlc   音视频编解码播放
+				freetype		2.10.4			https://www.freetype.org/								字体引擎
 
     动态库：
         C#      NPOI            2.5.1		https://github.com/tonyqus/npoi                         Excel
